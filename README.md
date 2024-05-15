@@ -25,4 +25,4 @@ random_forest.ipynb - In this notebook, random forest classifier model is traine
 
 gradient_boosted_trees.ipynb - In this notebook, gradient boost trees classifier model is trained with cleaned dataset, feature importance is measured, and it's evaluated on metrices such as Accuracy, Area under PR, Area under ROC, F1 score, Precision and Recall for both train and test dataset. 
 
-inference.py - In this notebook, The inferencing is done to detect the hoggs boson particle for new data.
+inference.py - In this script, The inferencing is done to detect the hoggs boson particle for new data.
