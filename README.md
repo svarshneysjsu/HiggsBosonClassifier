@@ -41,7 +41,7 @@ The HIGG.csv needs to be extracted and placed inside the `raw_data` folder.
 13. inference.py
     - Command to execute inference.py - `spark-submit inference.py sample6.csv 2>/dev/null`
 
-# Detailed description of code files below:
+## Detailed description of code files below:
 
 eda1_plots.ipynb – In this notebook, basic statistics of the dataset are analyzed along with it pairwise scatter plot. Further, heatmap is generated to identify the correlation between the features and select the best features. 
 
